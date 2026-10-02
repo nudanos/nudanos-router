@@ -1,0 +1,4 @@
+# A meta-package for the whole milestone-1 set: its Depends lists ~500
+# packages. dpkg and apt have no field length limit; the 5000-character tag
+# guards Debian archive tooling, which NuDanOS's archive does not use.
+nudanos-router: field-too-long Depends *

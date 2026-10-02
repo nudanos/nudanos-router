@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: nudanos-router
+Source: https://github.com/nudanos/nudanos-router
+
+Files: *
+Copyright: 2026 NuDanOS Maintainers <jon@fernandez.tech>
+License: LGPL-2.1-only
+ This package is free software; you can redistribute it and/or modify it
+ under the terms of the GNU Lesser General Public License version 2.1 as
+ published by the Free Software Foundation.
+ .
+ On Debian systems, the complete text of the GNU Lesser General Public
+ License version 2.1 can be found in "/usr/share/common-licenses/LGPL-2.1".
