@@ -1,3 +1,10 @@
+nudanos-router (1.0~2) trixie; urgency=medium
+
+  * Install one default configuration, vyatta-cfg-default-vr (the variants
+    conflict).
+
+ -- NuDanOS Maintainers <jon@fernandez.tech>  Fri, 02 Oct 2026 09:39:59 -0700
+
 nudanos-router (1.0~1) trixie; urgency=medium
 
   * Initial release.
