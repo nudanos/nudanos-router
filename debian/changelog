@@ -1,3 +1,11 @@
+nudanos-router (1.0~3) trixie; urgency=medium
+
+  * Leave out user isolation's runtime (pam-sandbox, cli-sandbox,
+    vyatta-sssd-cli-sandbox, python3-shared-storage): without a sandbox root
+    pam_sandbox failed every non-root login.
+
+ -- NuDanOS Maintainers <jon@fernandez.tech>  Fri, 02 Oct 2026 22:58:07 -0700
+
 nudanos-router (1.0~2) trixie; urgency=medium
 
   * Install one default configuration, vyatta-cfg-default-vr (the variants
