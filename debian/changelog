@@ -1,3 +1,10 @@
+nudanos-router (1.0~4) trixie; urgency=medium
+
+  * Drop hardware platform deviation modules (Broadcom DPP/StrataDNX, SIAD,
+    UfiSpace Apollo); they refused valid configuration on general hardware
+
+ -- NuDanOS Maintainers <jon@fernandez.tech>  Sat, 03 Oct 2026 20:13:36 -0700
+
 nudanos-router (1.0~3) trixie; urgency=medium
 
   * Leave out user isolation's runtime (pam-sandbox, cli-sandbox,
