@@ -1,3 +1,9 @@
+nudanos-router (1.0~5) trixie; urgency=medium
+
+  * Add libnss-tacplus and libtacplus-map1 (TACACS+ login)
+
+ -- NuDanOS Maintainers <jon@fernandez.tech>  Tue, 06 Oct 2026 07:20:29 -0700
+
 nudanos-router (1.0~4) trixie; urgency=medium
 
   * Drop hardware platform deviation modules (Broadcom DPP/StrataDNX, SIAD,
